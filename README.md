@@ -1,5 +1,9 @@
 # Hola, soy Gero 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Geronimo_Serratti-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geronimo-serratti-387980329/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Ver_sitio-FF5A1F)](https://geronimo02.github.io/portfolio/landing.html)
+![Status](https://img.shields.io/badge/Status-Building_SaaS_products-success)
+
 Full-stack developer de Tandil, Argentina. Co-fundador de **Digital Solutions FP** y builder de varios productos SaaS propios, de punta a punta: diseño, backend, frontend, deploy y automatización.
 
 ## 🚀 Productos
